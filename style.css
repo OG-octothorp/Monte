@@ -1,0 +1,22 @@
+body{
+    background-image: url("./images/greenfelt.jpg");
+}
+
+.text {
+    text-align: center;
+    font-family: "Corinthia", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 500%;
+}
+
+.card {
+    display: inline-block;
+   margin-left: 17%;
+}
+
+.reset-instructions {
+    background: none;
+    border: none;
+    margin-left: 37%;
+}
